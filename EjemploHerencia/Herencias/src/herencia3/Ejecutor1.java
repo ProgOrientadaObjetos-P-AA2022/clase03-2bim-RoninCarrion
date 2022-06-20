@@ -17,7 +17,7 @@ public class Ejecutor1 {
                 23, 1, 100.2);
         EstudianteDistancia e2 = new EstudianteDistancia("Joseph", "White", "212234",
                 24, 5, 100.2); 
-        EstudianteDistancia e3 = new EstudianteDistancia("Catherine", "Reyes", "212235",
+        EstudianteDistancia e3 = new EstudianteDistancia("Katherine", "Reyes", "212235",
                 25, 8, 100.2);
         
         listaDistancia.add(e1);
